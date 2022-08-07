@@ -6,6 +6,10 @@ header{
   color: white;
   text-align: center;
 }
+div{
+  text-align: center;
+  padding: 8px;
+}
 section{
   background: rgb(255, 255, 255);
   border-radius: 10px;
